@@ -5,13 +5,13 @@ var files = {
 		"webgl_loader_fbx"
 	],
 	"webgl / advanced": [
-		"webgl_worker_offscreencanvas"
+		"webgl_worker_offscreencanvas (shouldn't)"
 	],
 	"webgl deferred": [
-		"webgldeferred_animation"
+		"webgldeferred_animation (be)"
 	],
 	"webaudio": [
-		"webaudio_visualizer"
+		"webaudio_visualizer (visible)"
 	],
 	"webvr": [
 		"webvr_cubes"

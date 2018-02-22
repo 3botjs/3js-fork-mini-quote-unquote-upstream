@@ -21,7 +21,7 @@ var files = {
         "misc_uv_tests (with computers)"
 	],
 	"css3d": [
-		"css3d_molecules"
+		"css3d_molecules (meow)"
 	],
 	"canvas": [
 		"canvas_ascii_effect"

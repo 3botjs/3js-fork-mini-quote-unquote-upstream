@@ -14,14 +14,14 @@ var files = {
 		"webaudio_visualizer (visible)"
 	],
 	"webvr": [
-		"webvr_cubes"
+		"webvr_cubes (how did I get here)"
 	],
 	"misc": [
-		"misc_lookat",
-        "misc_uv_tests"
+		"misc_lookat (I'm not very good)",
+        "misc_uv_tests (with computers)"
 	],
 	"css3d": [
-		"css3d_molecules"
+		"css3d_molecules (meow)"
 	],
 	"canvas": [
 		"canvas_ascii_effect"
